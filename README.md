@@ -1,4 +1,4 @@
 # Api-Contatos
-Demonstra√ß√£o de API de cadastro de contatos, feita em:  Java SpringBoot JPA MySql
+DemonstraÁ„o de API de cadastro de contatos, feita em:  Java SpringBoot JPA MySql
 
-OBS: Olhar a Branch 'master' onde est√° o c√≥digo
+OBS: Olhar a Branch 'master' onde est· o cÛdigo
